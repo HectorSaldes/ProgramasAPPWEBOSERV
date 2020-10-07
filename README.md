@@ -12,7 +12,7 @@
 * GITHUB_BD_ESCRITO y GITHUB_BD_EXPORTADO - Database en MySQL para Github   
 
 #### NetBeans 8.0.2 🥜⚙️
-* PrimerProyectoStruts2
+* PrimerProyectoStruts2 - Proyecto web usando Struts 2
 
 
 
