@@ -13,6 +13,7 @@
 
 #### NetBeans 8.0.2 🥜⚙️
 * PrimerProyectoStruts2 - Proyecto web usando Struts 2
+* OperacionesStruts2 - Operaciones básicas con Struts 2 (calculadora)
 
 
 
