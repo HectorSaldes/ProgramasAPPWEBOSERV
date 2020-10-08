@@ -2,9 +2,11 @@
 "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
 "http://struts.apache.org/dtds/struts-2.0.dtd">
 
+<!--NO COPIAR Y PEGAR LA PARTE DE ABAJO POR CONFIGURACIONES DISTINTAS, NO DEJAR ESPACIOS-->
 <struts>
     <package name="default" extends="struts-default">
-        
+         <!--NAME: ACTION FORM  CLASS: A QUE CLASE IRA   METHOD: QUE METODO DE LA CLASE-->
+        <!--RECOMENDACION: EL AACTION Y EL METODO LLAMARSE IGUAL PARA SABER A QUE CORRESPONDE-->
         <action name="saludar" class="controller.SaludoAction" method="saludarMetodo">
             <result name="success">/vista/jsp/Index.jsp</result>
             <result name="error">/vista/jsp/Error.jsp</result>

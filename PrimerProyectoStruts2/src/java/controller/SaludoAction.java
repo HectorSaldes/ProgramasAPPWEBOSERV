@@ -16,7 +16,7 @@ public class SaludoAction {
     //ESTE METODO LO LLAMA STRUTS.XML
     public String saludarMetodo() {
         saludo = "¡Hola " + nombre + ", bienvenid@ a tu primera App Web en Struts!";
-        return ERROR;
+        return SUCCESS;
         //SIEMPRE DEBEMOS REGRESAR SUCCESS O ERROR, SI SE HIZO BIEN ALGO
     }
 
