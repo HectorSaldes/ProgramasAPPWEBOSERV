@@ -18,11 +18,11 @@
 
         <br><br>
         <div class="jumbotron container">
-            <h1 class="display-4">¡ Resultado de la <s:property value="operacion"/> !  </h1>         
+            <h1 class="display-4">¡ Resultado de la <b id="opCalculadora" class="font-weight-bold"><s:property value="operacion"/></b>  !  </h1>         
             <hr class="my-4">            
-            <h1 class="text-center" style="font-size: 10em"><s:property value="resultado"/></h1>
+            <h1 id="resul" class="text-center" style="font-size: 10em"><s:property value="resultado"/></h1>
             <hr class="my-4">  
-            <a class="text-center" href="" ><button type="button" class="btn btn-dark text-center btn-block font-weight-bold">Regresar</button></a>
+            <a class="text-center" href="javascript: history.go(-1)" ><button type="button" class="btn btn-dark text-center btn-block font-weight-bold">Regresar</button></a>
         </div>
         <div class="row">
             <div class="col">
@@ -30,6 +30,7 @@
             </div>
         </div>
 
+        <script src="assets/js/app.js"></script>
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>

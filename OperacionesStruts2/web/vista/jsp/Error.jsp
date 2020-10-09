@@ -21,7 +21,7 @@
             <hr class="my-4">            
             <h1 class="text-center text-danger" style="font-size: 10em">>_<</h1>
             <hr class="my-4"> 
-            <a class="text-center" href=""><button type="button" class="btn btn-dark text-center btn-block font-weight-bold">Regresar</button></a>
+            <a class="text-center" href="javascript: history.go(-1)"><button type="button" class="btn btn-dark text-center btn-block font-weight-bold">Regresar</button></a>
         </div>
         <div class="row">
             <div class="col">

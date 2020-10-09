@@ -28,7 +28,7 @@
                 <div class="form-group row">
                     <label for="numero2" class="col-sm-3 col-form-label text-center">Número 2:</label>
                     <div class="col-sm">
-                        <input type="number" class="form-control" name="numero2" id="numero2" placeholder="#" step="any">
+                        <input maxlength="20" type="number" class="form-control" name="numero2" id="numero2" placeholder="#" step="any">
                     </div>
                 </div>
 
