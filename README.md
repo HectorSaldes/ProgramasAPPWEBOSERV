@@ -15,7 +15,9 @@
 * PrimerProyectoStruts2 - Proyecto web usando Struts 2
 * OperacionesStruts2 - Operaciones básicas con Struts 2 (calculadora)
 
-
+#### Visual Studio Code 🐱‍👤⚙️
+* Geolocalizacion VScode - Mostrar mapa y tu ubicacion actual con marcador (consumiendo API)
+* Geolocalizacion 3 Lugares - Mostrar mapa y la ubicación de 3 lugares
 
 
 
