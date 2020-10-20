@@ -4,7 +4,7 @@
 >
 
 ## Contenido 🚀
-#### IntelliJ 🤖⚙️
+#### IntelliJ 2020.1 🤖⚙️
 * Practica 001 - Servidor y Cliente (Conexión)
 * Practica 002 - Servidor y Cliente (Calculadora)
 * RENAPOSERVER y SUBESCLIENTE - Ejemplo de consumir un servicio con MySQL | Consultar CURP 
