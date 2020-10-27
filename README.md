@@ -15,7 +15,9 @@
 * GITHUB_BD_ESCRITO y GITHUB_BD_EXPORTADO - Database en MySQL para Github   
 
 ***SOAP***
-* SOAP001, SOAP002, SOAP003 - Aprendiendo SOAP y usando SOAPUI 
+* SOAP001 - Aprendiendo SOAP y usando SOAPUI 
+* SOAP002 y SOAP002_CLIENTE - Servicio y Cliente del Uso del SOAP
+* SOAP003
 
 #### NetBeans 8.0.2 🥜⚙️
 ***Struts 2***
