@@ -18,7 +18,7 @@
 * SOAP001,  - Aprendiendo SOAP y usando SoapUI 
 * SOAP002 y SOAP002_CLIENTE - Creación de servidor y cliente de operaciones básicas
 * SOAP003 y SOAP003_CLIENE - Creación de servidor y cliente de consulta de datos de personas
-* RENAPOSOAP - Consultando la CURP con SOAP y SoapUI
+* RENAPOSOAP y SUBESSOAPCLIENTE - Proveendo el servicio de renapo y consumiendo el servicio subes con interfaz web (USANDO MAVEN Y STRUTS 2)
 
 #### NetBeans 8.0.2 🥜⚙️
 ***Struts 2***
