@@ -13,6 +13,11 @@ public class UsuarioBean {
 		this.contrasena = contrasena;
 	}
 
+	public UsuarioBean(String usuario, String contrasena) {
+		this.usuario = usuario;
+		this.contrasena = contrasena;
+	}
+
 	public String getNombre() {
 		return nombre;
 	}
