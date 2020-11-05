@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>groupId</groupId>
+    <artifactId>CLIENTE_SUPERHEROE</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <!--    COPIAR DESDE AQUÍ-->
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+    </properties>
+
+    <build>
+        <plugins>
+            <plugin>
+                <!--DEBO USAR LA VERSION 2.6 PORQUE POR ALGUNA RAZON LA 2.5 NO ME LA ACEPTA-->
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>jaxws-maven-plugin</artifactId>
+                <version>2.6</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>wsimport</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <wsdlUrls>
+                        <!-- AQUI DEBE IR LA DIRECCION DE ENDPOINT.PUBLISH DE LA PARTE DEL SERVIDOR PARA QUE SEAN COMPANTIBLES ANTES DEL ?wsdl
+                        EL SERVIDOR DEBE ESTAR CORRIENDO -->
+                        <wsdlUrl>http://localhost:1300/ServicioHeroe?wsdl</wsdlUrl>
+                    </wsdlUrls>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+    <!--   HASTA AQUÍ-->
+    
+</project>
