@@ -19,6 +19,8 @@
 * SOAP002 y SOAP002_CLIENTE - Creación de servidor y cliente de operaciones básicas
 * SOAP003 y SOAP003_CLIENE - Creación de servidor y cliente de consulta de datos de personas
 * RENAPOSOAP y SUBESSOAPCLIENTE - Proveendo el servicio de renapo y consumiendo el servicio subes con interfaz web (USANDO MAVEN Y STRUTS 2)
+* SERVIDOR_SUPERHEROE y CLIENTE_SUPERHEROE - Pequeño CRUD con soap para examen
+* SERVIDOR_ESCUELA_HSE y CLIENTE_ESCUELA_HSE - Examen consultar el promedio de un alumno.
 
 #### NetBeans 8.0.2 🥜⚙️
 ***Struts 2***
