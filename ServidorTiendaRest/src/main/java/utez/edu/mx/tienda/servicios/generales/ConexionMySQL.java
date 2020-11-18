@@ -15,4 +15,16 @@ public class ConexionMySQL {
         con = DriverManager.getConnection("jdbc:mysql://localhost/tienda?user=root&password=admin&allowPublicKeyRetrieval=true&useSSL=false");
         return  con;
     }
+
+    public static void main(String[] args) throws SQLException, Exception {
+        try {
+            ConexionMySQL c = new ConexionMySQL();
+            Connection con = c.crearConexion();
+            System.out.println(con);
+            System.out.println("(^_^) Connection successful ... ");
+        } catch (Exception e) {
+            System.out.println("(o_O) Conection error ... " + e);
+        }
+    }
+
 }

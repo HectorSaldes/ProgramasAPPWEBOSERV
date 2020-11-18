@@ -64,4 +64,15 @@ public class ProductoBean {
     public void setExistencia(int existencia) {
         this.existencia = existencia;
     }
+
+    @Override
+    public String toString() {
+        return "ProductoBean{" +
+                "idP=" + idP +
+                ", nombre='" + nombre + '\'' +
+                ", descripcion='" + descripcion + '\'' +
+                ", precio=" + precio +
+                ", existencia=" + existencia +
+                '}';
+    }
 }
