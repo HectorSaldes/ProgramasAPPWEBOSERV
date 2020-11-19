@@ -28,7 +28,6 @@ public class ProductoDao extends ConexionMySQL {
 			e.printStackTrace();
 		}finally {
 			try {
-				rs.close();
 				pstm.close();
 				crearConexion().close();
 			} catch (SQLException throwables) {
@@ -104,7 +103,6 @@ public class ProductoDao extends ConexionMySQL {
 			e.printStackTrace();
 		}finally {
 			try {
-				rs.close();
 				pstm.close();
 				crearConexion().close();
 			} catch (SQLException throwables) {
@@ -128,7 +126,6 @@ public class ProductoDao extends ConexionMySQL {
 			e.printStackTrace();
 		}finally {
 			try {
-				rs.close();
 				pstm.close();
 				crearConexion().close();
 			} catch (SQLException throwables) {

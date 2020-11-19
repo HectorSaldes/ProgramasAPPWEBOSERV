@@ -52,4 +52,5 @@
 #### IntelliJ 2020.1 🤖⚙️
 * [MiPrimerApp-REST](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/MiPrimerApp-REST) - Conociento REST, primeras visiones
 * [REST002](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/REST002) - Recibiendo parámetros y mostrandolos con REST
-* [ServidorTiendaRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorTiendaRest) - CRUD tienda "Proyecto de Raúl"
+* [ServidorTiendaRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorTiendaRest) - CRUD tienda con REST
+* [ServidorEmpleadoRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorTiendaRest) - CRUD empleado con REST
