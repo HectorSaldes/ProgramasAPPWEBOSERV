@@ -49,8 +49,13 @@
 * [Geolocalizacion 3 Lugares](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/Geolocalizacion%203%20Lugares) - Mostrar mapa y la ubicación de 3 lugares
 
 ### Unidad 3
-#### IntelliJ 2020.1 🤖⚙️
+#### IntelliJ 2020.2 🤖⚙️
+***REST***
 * [MiPrimerApp-REST](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/MiPrimerApp-REST) - Conociento REST, primeras visiones
 * [REST002](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/REST002) - Recibiendo parámetros y mostrandolos con REST
+<<<<<<< HEAD
 * [ServidorTiendaRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorTiendaRest) - CRUD tienda con REST
 * [ServidorEmpleadoRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorTiendaRest) - CRUD empleado con REST
+=======
+* [ServidorTiendaRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorTiendaRest) - CRUD tienda "Proyecto de Raúl"
+>>>>>>> f1ff25c341bd64e01f8b0d433d486d84e9bc8b3a
