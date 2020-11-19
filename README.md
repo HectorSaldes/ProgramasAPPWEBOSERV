@@ -54,4 +54,4 @@
 * [MiPrimerApp-REST](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/MiPrimerApp-REST) - Conociento REST, primeras visiones
 * [REST002](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/REST002) - Recibiendo parámetros y mostrandolos con REST
 * [ServidorTiendaRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorTiendaRest) - CRUD tienda con REST
-* [ServidorEmpleadoRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorTiendaRest) - CRUD empleado con REST
+* [ServidorEmpleadoRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorEmpleadoRest) - CRUD empleado con REST
