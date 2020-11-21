@@ -10,7 +10,8 @@
 - [Unidad 3](#unidad-3).
 
 
-### Unidad 2 (Underline)
+### Unidad 2
+=============
 #### IntelliJ 2020.1 🤖⚙️
 ***XML-RPC***
 * [Practica 001](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/APPWEBPractica001) - Servidor y Cliente (Conexión)
@@ -53,7 +54,8 @@
 * [Geolocalizacion VScode](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/Geolocalizacion%20VScode) - Mostrar mapa y tu ubicacion actual con marcador (consumiendo API)
 * [Geolocalizacion 3 Lugares](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/Geolocalizacion%203%20Lugares) - Mostrar mapa y la ubicación de 3 lugares
 
-### Unidad 3 (Underline)
+### Unidad 3
+=============
 #### IntelliJ 2020.2 🤖⚙️
 ***REST***
 * [MiPrimerApp-REST](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/MiPrimerApp-REST) - Conociento REST, primeras visiones
