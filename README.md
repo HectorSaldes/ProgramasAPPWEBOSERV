@@ -12,7 +12,7 @@
 
 ## Unidad 2
 #### IntelliJ 2020.1 🤖⚙️
-***XML-RPC***
+### XML-RPC
 * [Practica 001](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/APPWEBPractica001) - Servidor y Cliente (Conexión)
 * [Practica 002](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/APPWEBPractica002) - Servidor y Cliente (Calculadora)
 * Consumir un servicio con MySQL | Consultar CURP
@@ -25,7 +25,7 @@
             - [GITHUB_BD_ESCRITO](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/blob/master/GITHUB_BD_ESCRITO.sql)
             - [GITHUB_BD_EXPORTADO](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/blob/master/GITHUB_BD_EXPORTADO.sql)
 
-***SOAP***
+### SOAP
 * [SOAP001](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/SOAP001) - Aprendiendo SOAP y usando SoapUI
 * Creación de servidor y cliente de operaciones básicas
     - [SOAP002](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/SOAP002)
@@ -44,19 +44,18 @@
     - [CLIENTE_ESCUELA_HSE](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/CLIENTE_ESCUELA_HSE)
 
 #### NetBeans 8.0.2 🥜⚙️
-***Struts 2***
+### Struts 2
 * [PrimerProyectoStruts2](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/PrimerProyectoStruts2) - Proyecto web usando Struts 2
 * [OperacionesStruts2](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/OperacionesStruts2) - Operaciones básicas con Struts 2 (calculadora)
 
 #### Visual Studio Code 🐱‍👤⚙️
-***Consumiendo API Mapas***
+### Consumiendo API Mapas
 * [Geolocalizacion VScode](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/Geolocalizacion%20VScode) - Mostrar mapa y tu ubicacion actual con marcador (consumiendo API)
 * [Geolocalizacion 3 Lugares](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/Geolocalizacion%203%20Lugares) - Mostrar mapa y la ubicación de 3 lugares
 
-## Unidad 3 (Underline)
-=============
+## Unidad 3
 #### IntelliJ 2020.2 🤖⚙️
-***REST***
+### REST
 * [MiPrimerApp-REST](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/MiPrimerApp-REST) - Conociento REST, primeras visiones
 * [REST002](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/REST002) - Recibiendo parámetros y mostrandolos con REST
 * [ServidorTiendaRest](https://github.com/HectorSaldes/ProgramasAPPWEBOSERV/tree/master/ServidorTiendaRest) - CRUD tienda con REST
