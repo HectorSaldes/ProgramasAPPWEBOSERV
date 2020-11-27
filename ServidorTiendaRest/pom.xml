@@ -27,6 +27,15 @@
       <scope>test</scope>
     </dependency>
 
+<!--    DEPENDENCIA DE MAVEN SON JSON PARA EL RETORNO-->
+    <!-- https://mvnrepository.com/artifact/org.json/json -->
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20201115</version>
+    </dependency>
+
+
     <!--COPIAR-->
     <dependency>
       <groupId>org.glassfish.jersey.bundles</groupId>
